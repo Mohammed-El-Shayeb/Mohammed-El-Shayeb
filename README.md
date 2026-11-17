@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Mohammed El-Shayeb 👋</h1>
-<h3 align="center">Computer Vision & AI Engineer · Freelancer · Jordan 🇯🇴</h3>
+<h3 align="center">Computer Vision & AI Engineer · Freelancer · Jordan</h3>
 
 <p align="center">
   <a href="https://mohammed-el-shayeb.github.io/CV/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mohammed-el-shayeb-32a503252"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohammed-el-shayeb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammed.el.shayeb.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/mohammad_el_shayeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/mohammed.el.shayeb.0"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
@@ -41,4 +44,4 @@ I'm currently studying **Artificial Intelligence & Data Science at Zarqa Univers
 ### 📫 Let's connect
 
 Open to freelance projects and collaborations in **Computer Vision, AI and Web AR**.
-Reach me on [LinkedIn](https://www.linkedin.com/in/mohammed-el-shayeb-32a503252) or through my [portfolio](https://mohammed-el-shayeb.github.io/CV/).
+Reach me at **mohammed.el.shayeb.ai@gmail.com**, on [LinkedIn](https://www.linkedin.com/in/mohammed-el-shayeb), or through my [portfolio](https://mohammed-el-shayeb.github.io/CV/).
