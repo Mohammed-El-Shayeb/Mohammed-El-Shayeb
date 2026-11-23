@@ -32,6 +32,7 @@ I'm currently studying **Artificial Intelligence & Data Science at Zarqa Univers
 
 | Project | Description | Stack |
 |---|---|---|
+| 🔥 [**Inferno Bin**](https://github.com/Mohammed-El-Shayeb/InfernoBin) · [Download](https://github.com/Mohammed-El-Shayeb/InfernoBin/releases/latest) | A realistic burning fire pit for the Windows desktop: drag any file onto the fire and it burns away, with animated flames and real crackling sound | Python, PyQt6, OpenCV |
 | [**ZAFRAN AR Menu**](https://github.com/Mohammed-El-Shayeb/minu) · [Live demo](https://mohammed-el-shayeb.github.io/minu/) | Web-based AR restaurant menu that lets customers preview 3D dishes on their table from the browser | Three.js, JavaScript |
 | [**Hand-Drive**](https://github.com/Mohammed-El-Shayeb/Hand-Drive) | Control games with hand gestures through a webcam, using real-time hand tracking | Python, MediaPipe, OpenCV |
 | [**Portfolio**](https://github.com/Mohammed-El-Shayeb/CV) · [Live](https://mohammed-el-shayeb.github.io/CV/) | Bilingual (AR/EN) personal portfolio | HTML, JavaScript, Three.js |
