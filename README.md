@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision & AI Engineer · Freelancer · Jordan</h3>
 
 <p align="center">
-  <a href="https://mohammed-el-shayeb.github.io/CV/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mohammed-el-shayeb.com"><img src="https://img.shields.io/badge/Website-mohammed--el--shayeb.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/mohammed-el-shayeb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammed.el.shayeb.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/mohammad_el_shayeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -35,7 +35,7 @@ I'm currently studying **Artificial Intelligence & Data Science at Zarqa Univers
 | 🔥 [**Inferno Bin**](https://github.com/Mohammed-El-Shayeb/InfernoBin) · [Download](https://github.com/Mohammed-El-Shayeb/InfernoBin/releases/latest) | A realistic burning fire pit for the Windows desktop: drag any file onto the fire and it burns away, with animated flames and real crackling sound | Python, PyQt6, OpenCV |
 | [**ZAFRAN AR Menu**](https://github.com/Mohammed-El-Shayeb/minu) · [Live demo](https://mohammed-el-shayeb.github.io/minu/) | Web-based AR restaurant menu that lets customers preview 3D dishes on their table from the browser | Three.js, JavaScript |
 | [**Hand-Drive**](https://github.com/Mohammed-El-Shayeb/Hand-Drive) | Control games with hand gestures through a webcam, using real-time hand tracking | Python, MediaPipe, OpenCV |
-| [**Portfolio**](https://github.com/Mohammed-El-Shayeb/CV) · [Live](https://mohammed-el-shayeb.github.io/CV/) | Bilingual (AR/EN) personal portfolio | HTML, JavaScript, Three.js |
+| [**Personal Website**](https://mohammed-el-shayeb.com) | Bilingual (AR/EN) website with a secure admin dashboard, live analytics and portfolio management | HTML, JavaScript, Three.js, PHP, MySQL |
 
 ### 🧪 Currently working on
 
@@ -45,4 +45,4 @@ I'm currently studying **Artificial Intelligence & Data Science at Zarqa Univers
 ### 📫 Let's connect
 
 Open to freelance projects and collaborations in **Computer Vision, AI and Web AR**.
-Reach me at **mohammed.el.shayeb.ai@gmail.com**, on [LinkedIn](https://www.linkedin.com/in/mohammed-el-shayeb), or through my [portfolio](https://mohammed-el-shayeb.github.io/CV/).
+Reach me at **mohammed.el.shayeb.ai@gmail.com**, on [LinkedIn](https://www.linkedin.com/in/mohammed-el-shayeb), or through my [website](https://mohammed-el-shayeb.com).
